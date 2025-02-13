@@ -1,0 +1,1 @@
+This repository demonstrates a common Python TypeError involving unsupported operand types for the '+' operator. The bug occurs when attempting to add an integer and a string directly.  The solution provides a corrected version with explicit type conversion.
